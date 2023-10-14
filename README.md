@@ -31,24 +31,24 @@ _(Install and use the Tool with **Root**.)_
 
 **0)** Instalar y usar la Herramienta con **Root**
 
-**1)** sudo apt update && apt -y full-upgrade
+```**1)** sudo apt update && apt -y full-upgrade```
+<br>
+```**2)** sudo apt-get install git```
+<br>
+```**3)** git clone https://github.com/Unlimited-Crack-You/spy_the_infor.git```
+<br>
+```**4)** cd The_spy_job```
+<br>
+```**5)** chmod 777 spy_the_infor.sh```
+<br>
+```**6)** bash spy_the_infor.sh```
+<br>
+**7)** Check Option 0 and then 1 to install the dependencies (Only check the first time)
 
-**2)** sudo apt-get install git
-
-**3)** git clone https://github.com/Unlimited-Crack-You/spy_the_infor.git 
-
-**4)** cd The_spy_job
-
-**5)** chmod 777 spy_the_infor.sh
-
-**6)** bash spy_the_infor.sh
-
-7) Check Option 0 and then 1 to install the dependencies (Only check the first time)
-
-8) Inside Option 0 we find sections 2 and 3 which we can configure the free APIs to get the free 
+**8)** Inside Option 0 we find sections 2 and 3 which we can configure the free APIs to get the free 
 these free APIs to get the most out of spy_the_infor
 
-9) Now we can enjoy the tool
+**9)** Now we can enjoy the tool
 
 ## Take into account
 
