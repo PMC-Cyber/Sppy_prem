@@ -37,7 +37,7 @@ _(Install and use the Tool with **Root**.)_
 <br>
 ```3) git clone https://github.com/Unlimited-Crack-You/spy_the_infor.git```
 <br>
-```4) cd The_spy_job```
+```4) cd spy_the_infor```
 <br>
 ```5) chmod 777 spy_the_infor.sh```
 <br>
