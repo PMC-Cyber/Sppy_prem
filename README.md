@@ -35,9 +35,9 @@ _(Install and use the Tool with **Root**.)_
 <br>
 ```**2)** sudo apt-get install git```
 <br>
-```3) git clone https://github.com/Unlimited-Crack-You/spy_the_infor.git```
+```3) git clone https://github.com/Unlimited-Crack-You/Sppy_prem```
 <br>
-```4) cd spy_the_infor```
+```4) cd Sppy_prem```
 <br>
 ```5) chmod 777 spy_the_infor.sh```
 <br>
